@@ -2,10 +2,10 @@
 
 The purpose of this repository is twofold:
 
-  1 - To document questions I am asked and to provide for my own erudition a
+  1. To document questions I am asked and to provide for my own erudition a
       more complete solution than I am able to provide under the time constraints of
       an interview.
-  2 - To provide a bank of questions that I have to ask potential candidates when I
+  2. To provide a bank of questions that I have to ask potential candidates when I
       am on the other end of the interview.
 
 For both cases, a fully worked through set of solutions is more valuable for my
