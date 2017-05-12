@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SearchMethods
+namespace SortMethods
 {
-    class SearchMethods
+    class SortMethods
     {
         static void Main(string[] args)
         {
